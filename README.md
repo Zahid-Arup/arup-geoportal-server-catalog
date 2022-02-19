@@ -1,1 +1,0 @@
-# arup-geoportal-server-catalog
